@@ -1,0 +1,11 @@
+{
+  "name": "Morgan-Mothership",
+  "version": "0.0.0",
+  "description": "The motehrship implementation for Morgan P2P",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
