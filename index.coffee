@@ -12,6 +12,7 @@ ipdb    = { 'mexico' : '127.0.0.1' }
 tokendb =
   'mexico' : '2ojlkfsj09203nasdfkj'
   'mrjamj' : 'KJDSFL:SDOIFNOSDFIKJDSFJOSD'
+  'emacsj' : 'J:LKDSJFOSDNLFIDSONFOSDFODF'
 
 #
 # Set up the routes
